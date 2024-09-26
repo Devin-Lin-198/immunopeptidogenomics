@@ -12,7 +12,7 @@
 #define MINLEN 8
 #define MAXTHREADS 12
 #define CATLEN 300
-#define SEPARATOR "WWWWW"
+#define SEPARATOR "JJJJJ"
 
 typedef struct param_info param_info;
 typedef struct find_info find_info;
