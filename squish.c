@@ -10,7 +10,7 @@
 #define MAXSTR 51200
 #define FASTALEN 70
 #define MINLEN 8
-#define MAXLEN 10
+#define MAXLEN 9
 #define MAXTHREADS 12
 #define CATLEN 300
 #define SEPARATOR "JJJJJ"
